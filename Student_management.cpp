@@ -62,7 +62,7 @@ void insertStudent() {
         printCentered("Student record list is full.", 100);
         return;
     }
-
+        
     int id, age;
     char name[MAX_NAME_LENGTH], course[MAX_COURSE_LENGTH];
 
