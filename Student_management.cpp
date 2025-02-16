@@ -11,7 +11,7 @@ const int MAX_COURSE_LENGTH = 50;
 // Admin credentials
 const string ADMIN_USERNAME = "Lucifer";
 const string ADMIN_PASSWORD = "6969"; // Change this to a more secure password in production
-// -----------------------------------------------------------------------
+// -------------------------------------------------------------------------------------
 
 struct Student {
     int id;
